@@ -1,0 +1,95 @@
+Week 1:
+  Summary:
+    Participating in group meetings where we organised Jira and github as well as discussing user stories.
+    Experimented with the Jira interface
+  4-June:
+    Group Meeting: Github, Jira
+  5-June:
+    Jira Exploration and beginning React Learning
+  7-June:
+    Group Meeting: User stories
+Week 2:
+  Summary:
+    -
+  8-June (Monday):
+    Working through React setup and tutorial in order to understand our frontend framework
+    https://reactjs.org/tutorial/tutorial.html
+  9-June (Tuesday):
+    Started working on the users stories for "Reviews" and "Book Page"
+  10-June (Wednesday):
+    Users stories for "Recommendation", brainstorm of ideas
+  11-June (Thursday):
+    Group Meeting: Discussing User Stories
+  12-June (Friday):
+    Uploading stories in Jira, expanding certain user stories such as the book rating system.
+  13-June (Saturday):
+    -
+  14-June (Sunday):
+    Light work on the React tutorial
+Week 3:
+  Summary:
+    -
+  15-June (Monday)
+    15-5 Group Meeting
+  16-June (Tuesday)
+    Have been assigned to make an External Actors and system layer diagram. Spent time reviewing COMP1531 and the week 2 lecture notes
+    for the most suitable template from what was covered but I think that that instead the "Layered Architecture" Architectural pattern and the associated
+    diagrams is a good start. However I will probably need to have extensive knowledge of the full stack components and how they fit
+    together to produce this (Which Ben is working on) so I should talk to him. In the meantime have been exploring full stack tutorials such as this: https://blog.logrocket.com/creating-an-app-with-react-and-django/
+  17-June (Wednesday)
+    Spent more time reading the blog: https://blog.logrocket.com/creating-an-app-with-react-and-django/
+    Worked a bit on the layered diagram
+  18-June (Thursday)
+    Feedback on the diagram was that it should include more of the specific kinds of user interaction as well as component interaction
+    With that in mind I changed it to more resemble a sequence diagram
+  19-June (Friday)
+    Further work on the sequence diagram
+  20-June
+    -
+  21-June
+    -
+Week 4:
+  22-June:
+    Having been assigned login backend as well as researching image delivery, I have been reading some fundamental tutorials on Django authentication and file management. Spent some time installing and preparing PostgreSQL in order to run the site.
+  23-June:
+    Reading file documentation to see how we will deploy images
+  24-June:
+    -
+  25-June:
+    Group Meeting: Prioritising the login API, working through a REST API tutorial.
+  26-June:
+    -
+  27-June:
+    In deciding how we will implement authorization in our app I worked through the tutorial here: https://www.valentinog.com/blog/drf/ exploring whether it was easier to embed the react app inside django or have it run separately
+  28-June:
+    Spent some time trying to work out embedding react into django but it proved problematic, deciding to have them as completely separate entities so we need to use token authentication.
+    Added basic token authentication functionality.
+    
+ Week 5:
+    Login backend as well as name and author search backend.
+    
+ Week 6
+    Working out genres in the backend and how to relate them to books. Basic display of genres given to the front end from the backend.
+    
+ Week 7:
+  13-7: -
+  14-7: -
+  15-7: -
+  16-7: Group meeting
+  17-7: Completion of the rating-like backend and the filtering backend.
+  18-8: Group meeting and starting on collection backend
+  19-8: Preparing category dataset
+  
+ Week 8:
+  20-7: Various fixes. dataset, likes
+  21-7: Collection backend
+  22-7: Prepared collection data
+  Sunday: Improved results sorting and starting on recommendations on a book
+ Week 9:
+  Monday: Completed recommendations on book
+  
+  
+ 
+    
+  
+   

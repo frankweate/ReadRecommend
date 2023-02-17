@@ -1,0 +1,17 @@
+.star {
+  color: white;
+  font-size: 25px;
+}
+.star_hov {
+  color: lightgreen;
+  font-size: 25px;
+}
+
+.star_click {
+  color: gold;
+  font-size: 30px;
+}
+
+.cat_div {
+  color: white;
+}

@@ -1,0 +1,263 @@
+Week 1:
+
+Team was formed after using the forum and meeting in the online tutorial. 
+During the tutorial both Jira and Github was set-up for use in the project. 
+Future meetings involving all team members were also planned so that the 
+user stories and high-level product objectives can be determined. 
+
+Some research was also done as to what technology stacks will be used for the 
+project, with the primary candidates being React, Node.js and Django. Another 
+meeting was organised where the high-level objectives of the project is planned 
+whilst also discussing the drawbacks of goodreads.com (a similar tool). Epic 
+user stories were also disccused and written, with further user stories being 
+assigned for other group members to complete throughout the week. User stories 
+were not finished during this week since more thought over an extended period 
+of time is needed. 
+
+Plan to have two meetings over the next week, and complete all user stories 
+in draft by Thursday 11 June. 
+
+    Meetings:
+        4 June: Meeting group members and setting up Jira and Github. Confluence 
+        is also used for documentation. 
+        7 June: Planning of the product description and user stories. Some 
+        degree of technical planning was done as to what technology stacks will 
+        be employed for the project (for now Django + React). A future meeting 
+        is also tentatively scehduled. User stories assigned to group members 
+        to complete.   
+
+Week 2: 
+
+Work was done with regards to the creation of user stories and and the project
+background. User stories were assigned to each of the group members, with 
+them being completed over the week. Further technical research was conducted, 
+with it being agreed that React.js will be the front-end technology used along 
+with Django (Python) being employed in the back-end. 
+
+User stories were done in a timely fashion, and completed over the course of 
+the week. All group members were assigned some user stories that they needed 
+to complete. User stories were then put into Jira where they were placed inside 
+a project backlog. 
+
+    Meetings:
+        11 June: All group members present to discuss the user stories that 
+        were added to the backlog. Asked the tutor for help based on the user 
+        stories that were written. Some preliminary planning for the user 
+        stories was also done. 
+
+Week 3:
+
+The user stories were finalised amongst the team members, specifically in 
+regards to the exact granularity of each story used. The Jira backlog was 
+more fleshed out, specifically in regards to the user stories that need to 
+be completed for the first sprint. Any errors in the user stories were found 
+and discussed amongst the group members. 
+
+I performed some sprint planning and handed out user stories to be done in 
+the first sprint. Dates for the sprints were also planned in advance. I 
+determined the novel functionality of the first sprint and the system in
+general whilst also outlining the user stories that complete our objectives. 
+
+Technical aspects of the project were determined. Story boards were created in 
+a collaborative fashion. The architectural diagrams were also created for usage 
+in the project. Some team members set-up scaffolding for the API on git. 
+The proposal was finalised towards the end of the week, with any errors being 
+found and changed closer to submission. 
+
+    Meetings:
+        15 June: Dicussing the user story backlog on Jira and the relevance 
+        of the user stories compared to our technical architecture. 
+        18 June: Some more planning was done, specifically in regards to 
+        packages used on the front-end for design purposes (Ant design). 
+        Work was assigned with some group members doing story boards whilst 
+        others worked on the technical architecture for the proposal. The
+        sprints were also finalised.  
+
+Week 4:
+
+Jira sprint was completely planned by the start of the week. All of the 
+group members had been given work in the form of sub-tasks to complete on 
+Jira. What was planned over the previous period was to complete all work related
+to users being able to login and do simple search. Over this period the work 
+finished was significantly smaller than envisioned, due to issues related to 
+creating frameworks that added strain to the development time. 
+
+The main technical obstacle was related to creating the frameworks to be used 
+in the project. A secondary obstacle related to differing levels of commitment 
+in the team due to having just completed the project proposal a week prior. 
+This needed to be overcome by devoting a significant amount of time to 
+developing the given features.  
+
+The sprint by the end of Sunday was not finished. This was due to differing 
+levels of committment between group members. To overcome this, it might make 
+more sense to hold more frequent team meetings and be more active in reminding 
+people of work on Microsoft Teams. 
+
+Over the next week, we plan to hold a team meeting on Monday 29 June. Moreover,
+we aim to complete all functionality related to search and account creation 
+and management. 
+
+    Meetings:
+        25 June: More discussions on the general shape that the project will 
+        take with the frameworks that are given. Plans for the creation of 
+        scaffolds to do the project were also done.  
+
+Week 5:
+
+There was a delay in relation to performing the plan for the first sprint. 
+Work had been assigned, but individuals experienced delays in performing 
+the work. 
+
+The demo was performed during the tutorial in Week Five. When it became time 
+to present there were features that had not been properly completed due to 
+issues with connecting the front-end to the back-end of the application. 
+Many of the features in the front-end had been completed, or completed without 
+proper attention to styling. In regards to the back-end, some features 
+related to account management were completed, whilst others were in a state 
+of needing more work to be done. 
+
+It is evident that more work related to creating team contracts and 
+communication between individuals working on the front and back-end needs to 
+be performed. This could mean having active planning sessions to determine the 
+right level of work for each individual. More frequent team meetings may 
+be able to help resolve this issue.
+
+The sprint was completed by the end of the Saturday following the demo. 
+
+The retrospective was also done after we had presented our demo. 
+
+    Meetings:
+        2 July: Meeting in the morning to connect both the front-end along 
+        with the back-end together. Failed to achieve this in time before 
+        the demo was done.  
+
+Week 6:
+
+A new sprint was crafted to achive work related to book pages and 
+searching/filtering. Work was handed out to all the team members to achieve 
+over a period of a week, starting on Monday. Steady work on the sprint was 
+done over this time period. 
+
+Work completed to creating a book page and doing reviews was finished. 
+The contracts were maintained as a way of separately working on both the 
+front and back-end at the same time. This was a method of compromise that 
+had been proposed as a solution in the prior week so as to complete work in 
+a more timely fashion.   
+
+Attention was paid to make sure that group members were enforcing the 
+approaches outlined as needed in the retrospective for the assignment in 
+week five.  
+
+As an approach to increasing performance during sprints, it would be good if 
+group members could complete their work in a more gradual fashion, instead of 
+deciding to do it all over a small period of time. 
+
+    Meetings:
+        9 July: Normal weekly meeting to discuss the work that has been done 
+        so far in completing the assignment. 
+
+Week 7:
+
+Although the work related to the front-end was completed by the deadline of 
+the sprint (using mock data as outlined as a potential solution to increasing 
+the quality of sprints), there were significant delays in getting  the 
+back-end solutions out. This was primarily related to individuals who had 
+been assigned work having other committments outside of the group project for 
+the semester.  
+
+This meant that some group members were again waiting on work to be completed
+related to the work of other members. This created a significant level of 
+inefficiency in being able to complete the sprint in a timely fashion. A clear 
+solution to this kind of problem is having all team members being equally 
+committed to achieving the objectives of the sprint on time. 
+
+    Meetings:
+        16 July: Normaly weekly meeting. Discussing work related to the back-end
+        in the current sprint. Scrum master did planning for the next sprint, 
+        conditional on work being completed in the back-end. 
+
+Week 8:
+
+The work planned in the prior week was to complete enough features contained 
+in the sprint to present for the Demo B presentable in week eight tutorials. 
+Although there was a initial struggle in achieving the objectives, the work 
+of Jaidon in regards to developing the API features with collections 
+allowed for the features to be rapidly developed from the perspective of 
+the front-end. Hence, we were able to finish the objectives of the sprint 
+by the designated due date (book collections specifically).
+
+The primary technical obstacles encountered were related to how to present 
+collections from the perspective of the user interface. There was a 
+non-trivial amount of work that went into finding components that would suit 
+potential book collections well. 
+
+All work other than creating a book collection was finished by the end of 
+the sprint. There was a slight delay in delivering the required front-end 
+components necessary. This was not significant, as it was only a 
+sub-task contained within a larger user-story. 
+
+For the next week, recommendations are planned to be completed. Specifically, 
+recommendations related to book page viewing along with generalised 
+recommendations that are displayed on the home page. Moreover, the group 
+aims to complete reading challenges and notifications by the end of Friday week
+nine. 
+
+    Meetings:
+        23 July: Normal weekly meeting. Went through the work that would be  
+        presented beforee the assignment demonstration. Also, group members 
+        finished connecting parts of the front-end to the back-end of the 
+        application. 
+
+Week 9: 
+
+Since the last sprint, the primary work planned was to complete a new iteration 
+of features for implementing book recommendations and reminders. During this 
+period, nearly the entirety of work related to recommendation, reminders and 
+challenges were completed.
+
+The primary techincal obstacles were related to finding a suitable contract 
+to translated the recommendations provided in json to the front-end who 
+would then display these through the user-interface. This was achieved 
+through careful contract planning amongst the group members. The non-technical 
+obstacles faced were delivering all the objectives of the sprint before the 
+final deadline that we had set. We achieved this through continual communication 
+amongst the group members. 
+
+All work that was planned for the sprint was also completed. 
+
+Over the next week, the primary focus will be on the embellishment of already 
+existing features to make them more presentable for the final presentation. 
+This will potentially take the form of a miniature sprint to achieve this. 
+Moreover, there will need to be work done in relation to creating 
+documentation and creating the final report for the project. 
+
+    Meetings:
+        30 July: Normal weekly meeting. Went through all the work that had 
+        been completed up until this date. Moreover, group members updated 
+        each other on projected arrival times for final features. 
+
+Week 10:
+
+Since the last week work was done on the front-end to make it more presentable. 
+This meant polishing up some of the CSS that is used on the front-end. 
+Moreover, comprehensive ticket management was done on Jira to ensure that 
+all team members were completing the required work. The work planned since 
+the last journal entry was mainly in relation to cleaning up the design on 
+the front-end. 
+
+The main technical obstacle faced was finding the right components to display 
+the reading challenges on the front-end. In relation to the non-tehnical 
+obstacles, there was a significant amount of difficulty in getting people to 
+finish up the remaining bits ot work, especially in relation to the 
+back-end of the application. There was certainlly a feeling that as the 
+project extended into week ten there was less motivation to add more 
+features and do more work. Moreover, there was also difficulty in getting 
+individuals to complete the project report before the deadline in the tutorial 
+on Thursday. 
+
+Although everything is finished, there was definitely a desire for work 
+to be more efficiently done before deadlines. 
+
+Since this is the last week of the semester, nothing more is planned before 
+the project submission on Thursday. The plan is for all team members to 
+present a specific feature for the lab demonstration. 

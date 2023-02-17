@@ -1,0 +1,58 @@
+Week 1:- 
+		We had our first group meeting and setup jira and github and had a chat about our
+		user stories.
+
+First meeting - 
+		We worked on setting up github and played around with Jira to understand how it works.
+Second meeting - 
+		We worked on setting up our epic stories and designated each epic stories to a pair so 
+		that pairs could work on completing user stories. 
+
+Week 2:- 
+		Worked on completing the user stories that I was assigned (Challenge, Filtering Books).
+First meeting - 
+		We discussed about the user stories that we came up with and made necessary alterations to them.
+Second meeting -
+               Worked on sprint planning.
+               We delegated tasks amongst the members.
+               Was assigned on completing work for the storyboard and assist Jaidon on finishing the system layers.
+
+Week 3:- 
+		Been going through React documentation to grasp a better understanding of how the Search page will shape up.
+		Went through formatting of our proposal.
+		Created storyboard for reviews page for the proposal.
+
+Week 4 :- 
+		Created card of the Search Page. 
+		Going through the REST API to understand how it is going to work.
+		Hit API's to get results on the frontend for search results.
+    		Created JSON files and read from json files and displayed them on frontend ensuring that frontend work is almost done.
+
+ Week 5:
+    		Worked on displaying reviews on frontend. Read rating reviews from json file and displayed them on frontend.
+		Got reviews implemented on Book page.
+    
+ Week 6
+   		Worked on ensuring that reviews are hitting the API to get actual reviews of books.
+		Ensure that reviews which are show in form of stars was right.
+		Working changing stars from being dynamic to creating static stars for reviews that would change based on the result it gets from API.
+    
+ Week 7:
+		Worked on creating collection on frontend. 
+		Worked on hitting the API to create a collection.
+		Fixed minor bugs with previous implementations.
+  
+ Week 8:
+  		Worked on Reminder API to get it set.
+		Planned on how the workflow will be for Reminders.
+		Implemented reminders for frontend and hitting API's.
+ Week 9:
+  		Discussed about the Reminders features.
+		Fixed minor bugs in reminders and creating collections.
+		Spoke about the Goal feature to understand how that could work.
+  
+  
+ 
+    
+  
+   

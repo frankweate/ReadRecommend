@@ -1,0 +1,498 @@
+[
+    {
+        "model": "backend.Category",
+        "pk": "1",
+        "fields": {
+            "cID": 0,
+            "category": "Non-Fiction"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "2",
+        "fields": {
+            "cID": 1,
+            "category": "Fantasy"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "3",
+        "fields": {
+            "cID": 2,
+            "category": "Sci-fi"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "4",
+        "fields": {
+            "cID": 3,
+            "category": "Outer Space"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "5",
+        "fields": {
+            "cID": 4,
+            "category": "Futuristic"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "6",
+        "fields": {
+            "cID": 5,
+            "category": "Action"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "7",
+        "fields": {
+            "cID": 6,
+            "category": "Adventure"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "8",
+        "fields": {
+            "cID": 7,
+            "category": "Epic"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "9",
+        "fields": {
+            "cID": 8,
+            "category": "Adult"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "10",
+        "fields": {
+            "cID": 9,
+            "category": "Young Adult"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "11",
+        "fields": {
+            "cID": 10,
+            "category": "Teens"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "12",
+        "fields": {
+            "cID": 11,
+            "category": "Children's"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "13",
+        "fields": {
+            "cID": 12,
+            "category": "Fairy Tales"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "14",
+        "fields": {
+            "cID": 13,
+            "category": "Contemporary"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "15",
+        "fields": {
+            "cID": 14,
+            "category": "Modern"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "16",
+        "fields": {
+            "cID": 15,
+            "category": "Romance"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "17",
+        "fields": {
+            "cID": 16,
+            "category": "Mystery"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "18",
+        "fields": {
+            "cID": 17,
+            "category": "Detective"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "19",
+        "fields": {
+            "cID": 18,
+            "category": "Thriller"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "20",
+        "fields": {
+            "cID": 19,
+            "category": "Drama"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "21",
+        "fields": {
+            "cID": 20,
+            "category": "Paranormal"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "22",
+        "fields": {
+            "cID": 21,
+            "category": "Supernatural"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "23",
+        "fields": {
+            "cID": 22,
+            "category": "Magic"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "24",
+        "fields": {
+            "cID": 23,
+            "category": "Classic"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "25",
+        "fields": {
+            "cID": 24,
+            "category": "Historical"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "26",
+        "fields": {
+            "cID": 25,
+            "category": "War"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "27",
+        "fields": {
+            "cID": 26,
+            "category": "American"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "28",
+        "fields": {
+            "cID": 27,
+            "category": "British"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "29",
+        "fields": {
+            "cID": 28,
+            "category": "Suspense"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "30",
+        "fields": {
+            "cID": 29,
+            "category": "Horror"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "31",
+        "fields": {
+            "cID": 30,
+            "category": "Murder"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "32",
+        "fields": {
+            "cID": 31,
+            "category": "Dark"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "33",
+        "fields": {
+            "cID": 32,
+            "category": "Psychological"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "34",
+        "fields": {
+            "cID": 33,
+            "category": "Comedy"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "35",
+        "fields": {
+            "cID": 34,
+            "category": "Satire"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "36",
+        "fields": {
+            "cID": 35,
+            "category": "Family"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "37",
+        "fields": {
+            "cID": 36,
+            "category": "Crime"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "38",
+        "fields": {
+            "cID": 37,
+            "category": "Biographies"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "39",
+        "fields": {
+            "cID": 38,
+            "category": "Memoirs"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "40",
+        "fields": {
+            "cID": 39,
+            "category": "Inspirational"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "41",
+        "fields": {
+            "cID": 40,
+            "category": "Speculative"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "42",
+        "fields": {
+            "cID": 41,
+            "category": "Dystopian"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "43",
+        "fields": {
+            "cID": 42,
+            "category": "Apocalyptic"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "44",
+        "fields": {
+            "cID": 43,
+            "category": "Philosophy"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "45",
+        "fields": {
+            "cID": 44,
+            "category": "Religion"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "46",
+        "fields": {
+            "cID": 45,
+            "category": "Christian"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "47",
+        "fields": {
+            "cID": 46,
+            "category": "Spirituality"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "48",
+        "fields": {
+            "cID": 47,
+            "category": "Self Improvement"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "49",
+        "fields": {
+            "cID": 48,
+            "category": "Health"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "50",
+        "fields": {
+            "cID": 49,
+            "category": "Politics"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "51",
+        "fields": {
+            "cID": 50,
+            "category": "Sociology"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "52",
+        "fields": {
+            "cID": 51,
+            "category": "Animal"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "53",
+        "fields": {
+            "cID": 52,
+            "category": "Mythology"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "54",
+        "fields": {
+            "cID": 53,
+            "category": "Graphic Novels"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "55",
+        "fields": {
+            "cID": 54,
+            "category": "Comics"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "56",
+        "fields": {
+            "cID": 55,
+            "category": "Manga"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "57",
+        "fields": {
+            "cID": 56,
+            "category": "Picture Books"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "58",
+        "fields": {
+            "cID": 57,
+            "category": "Poetry"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "59",
+        "fields": {
+            "cID": 58,
+            "category": "Business"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "60",
+        "fields": {
+            "cID": 59,
+            "category": "Education"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "61",
+        "fields": {
+            "cID": 60,
+            "category": "Leadership"
+        }
+    },
+    {
+        "model": "backend.Category",
+        "pk": "62",
+        "fields": {
+            "cID": 61,
+            "category": "Music"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* center horizontally */
+  align-items: center; /* center vertically */
+  height: 400px;
+}
+
+.book {
+  display: flex;
+  float: left;
+  text-align: left;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  margin-bottom: 60px;
+}
+
+.master {
+  margin: 40px 20px 10px 40px;
+}
+
+.image {
+  max-width: 800px;
+  width: 250px;
+  height: 350px;
+  margin: 0 auto 10px;
+  -moz-box-shadow: #ddd 0px 5px 5px;
+  -webkit-box-shadow: #ddd 0px 5px 5px;
+  box-shadow: #ddd 0px 5px 5px;
+}
+
+.right {
+  margin-left: 20px;
+  width: 800px;
+}
+
+.descrip {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.cats {
+  margin-left: 50px;
+  width: 220px;
+}

@@ -1,0 +1,6 @@
+@import "../../node_modules/antd/dist/antd.css";
+
+.search_bar_div {
+  margin: auto;
+  width: 90%;
+}

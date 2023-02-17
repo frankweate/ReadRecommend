@@ -1,0 +1,56 @@
+Week 1:
+Thursday:
+-we formed a team and chose the read recommend project.
+-we set up jira and github for our team project
+-we also set up a teams group for communication
+-decided on biweekly meetings for group.
+Sunday:
+-we decided to begin by working on user stories, that were due for the proposal.
+-then after doing the user stories we would write the background
+Week 2:
+Thursday:
+-we then went through every user story as a group and evaluated each of them. 
+-we also verified the background made sense.
+Week 3: 
+-worked extensively on the report, specifically on the flow diagrams of the system,
+a critical part of understanding how our website will behave.
+Week 4:
+Tuesday:
+-started working on the frontend login page in react.
+-was quite hard had to learn a lot abour functional components and hooks
+- https://reactjs.org/docs/hooks-state.html used this tutorial to help understand
+Week 5:
+Monday: completed the login frontend page
+Tuesday: Starting working on the SearchBar to search for books
+Thursday: connected the frontend login with the backend
+Friday: stylised the searchbar and added jwt tokens to login, also now searching on the 
+searchbar will automatically take you to the /result route
+Sunday: added the user's searchtype to the state of the component, and a change in any state will
+trigger a get request.
+Week 6:
+Wednesday/Thursday: 
+-added a filter panel to filter the books 
+-can filter by category year range and reviews
+Week 7:
+Monday: fixed the css styling on the /results page
+Friday: restyled the login form due to advice from tutor and 
+the enter button will now trigger a search query
+Week 8:
+Tuesday: 
+started to work on the frontend recommendations page. 
+I feel like my react style and how i use it has imporved drastically from 
+when i began to use it.
+antdesign carousel does not look right for this page, so implementing my own design component
+Thursday:
+  adding the kept  working on the carousel.
+Saturday: 
+  added the numbers at the top of the carousel to let the user know where they are in the list.
+ Week 9:
+  stylised the carousel as well as making it easier to click.
+ Week 10: 
+ -linked up the recommendations frontend with the backend 
+ -worked on the report
+
+
+
+

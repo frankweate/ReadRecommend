@@ -1,0 +1,14 @@
+﻿CS3900 Diary
+Ben Smith z5120158
+04/06/20 – Meeting
+Had our first meeting today, which as a team we set up Github, Jira and Confluence and anything else we thought we would need to get this project started. Also decided on our team structure and started to discuss about what we wanted to use for languages and structures for both front end and back end. We selected a scrum master and also decided our next meeting.
+06/06/20 – Research
+Wrote up some research on Backends, having to decide between node.js vs python and also if we selected python, whether to build it using Flask or Django. I decided for backend that Django would be our best option and will discuss with team tomorrow.
+07/06/20 – Meeting
+Second meeting for the week, Discussed each backend option and decided to go with react frontend and django – python as our backend. We also decided on some epics and backend/frontend preference in our group.
+10/06/20 – Story Creation
+Created stories for allocated epic recommendation and filled out some acceptance criteria.
+10/06/20 – Meeting
+First meeting of week, went through each story we had created and critique. Decided on moving each to Jira after agreeing and planned next steps interms of who would start creating some of the diagrams and who would fleshout our stories into proposal paragraph.
+14/06/20 – Diagrams
+Have Completed ERD diagram for our database and started on some actor graphs.

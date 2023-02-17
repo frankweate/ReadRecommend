@@ -1,0 +1,24 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  float: left;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.img-logo {
+  width: 120px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.search {
+  width: 50%;
+  height: 50px;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected,
+.ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+  background-color: transparent;
+}

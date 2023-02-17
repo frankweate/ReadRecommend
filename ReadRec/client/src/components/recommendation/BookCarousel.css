@@ -1,0 +1,8 @@
+.bookCard {
+  height: 350px;
+  position: relative;
+}
+
+.ant-divider-inner-text {
+  font-size: 24px;
+}

@@ -1,0 +1,9 @@
+.Arrow {
+  position: absolute;
+  top: 75px;
+  cursor: pointer;
+}
+
+.Arrow:hover {
+  background-color: #ddd;
+}
